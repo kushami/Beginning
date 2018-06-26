@@ -1,0 +1,10 @@
+[user]
+	name = kushami
+	email = contact@kshun.info
+[core]
+	editor = vim -c \"set fenc=utf-8\"
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+
